@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 1.7.0//EN" "http://google-web-toolkit.googlecode.com/svn/tags/1.7.0/distro-source/core/src/gwt-module.dtd">
+<!--
+    @author Simone Spaccarotella {spa.simone@gmail.com}, Carmine Dodaro {carminedodaro@gmail.com}
+-->
+<module>
+    <!-- imports the GWT API-->
+    <inherits name="com.google.gwt.user.User" />
+    <!-- imports the Ext-GWT API -->
+    <!--<inherits name="com.extjs.gxt.ui.GXT" />-->
+    <!-- in order to use the RequestBuilder class -->
+    <!--<inherits name="com.google.gwt.http.HTTP" />-->
+
+    <!-- Inherit the default GWT style sheet. You can change -->
+    <!-- the theme of your GWT application by uncommenting -->
+    <!-- any one of the following lines. -->
+    <!-- <inherits name='com.google.gwt.user.theme.standard.Standard'/> -->
+    <!-- <inherits name="com.google.gwt.user.theme.chrome.Chrome"/> -->
+    <!-- <inherits name="com.google.gwt.user.theme.dark.Dark"/> -->
+
+    <entry-point class="spa.simone.wsportal.client.WSPortal"/>
+
+    <source path="client" />
+    <source path="shared" />
+</module>
