@@ -1,5 +1,0 @@
-<body>
-    Contains classes that act as callbacks for asynchronous calls between
-    the client (GUI) and the server components (JSP/Servlet), and for the
-    GUI events.
-</body>
