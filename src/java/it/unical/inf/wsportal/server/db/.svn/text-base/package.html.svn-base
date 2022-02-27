@@ -1,0 +1,4 @@
+<body>
+    Contains classes that manage the connection to the database and provide
+    the necessary methods to perform SQL queries/manipulation.
+</body>

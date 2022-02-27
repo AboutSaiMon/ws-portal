@@ -1,0 +1,11 @@
+it.unical.inf.wsportal.client
+it.unical.inf.wsportal.client.callback
+it.unical.inf.wsportal.client.controller
+it.unical.inf.wsportal.client.model
+it.unical.inf.wsportal.client.util
+it.unical.inf.wsportal.client.view
+it.unical.inf.wsportal.server
+it.unical.inf.wsportal.server.db
+it.unical.inf.wsportal.server.servlet
+it.unical.inf.wsportal.server.util
+it.unical.inf.wsportal.shared

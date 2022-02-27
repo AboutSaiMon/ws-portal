@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/ws-portal/!svn/ver/5/WSPortal/src/java/it/unical/inf/wsportal/server/servlet
+END
+SignUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/SignUp.java
+END
+WSLibGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/WSLibGenerator.java
+END
+LogIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/LogIn.java
+END
+LogOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/LogOut.java
+END
+ServerInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/ServerInitializer.java
+END
+Bridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/Bridge.java
+END
+InvokeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/InvokeMethod.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ws-portal/!svn/ver/2/WSPortal/src/java/it/unical/inf/wsportal/server/servlet/package.html
+END

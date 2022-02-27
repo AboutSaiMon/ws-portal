@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/wsportal" debug="5" reloadable="true" crossContext="true">
+    <Resource name="jdbc/wsportal" auth="Container" type="javax.sql.DataSource"
+              maxActive="20" maxIdle="10" maxWait="10000"
+              username="root" password="root" driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/wsportal"
+              removeAbandoned="true" removeAbandonedTimeout="60" logAbandoned="true"/>
+</Context>

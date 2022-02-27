@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/ws-portal/!svn/ver/5/WSPortal/src/java/it/unical/inf/wsportal/server/db
+END
+SqlStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/db/SqlStatement.java
+END
+DataSourceConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/db/DataSourceConnection.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/ws-portal/!svn/ver/2/WSPortal/src/java/it/unical/inf/wsportal/server/db/package.html
+END

@@ -1,0 +1,5 @@
+<body>
+    This package contains a single class that is the entry point of the web
+    application. This class provides static methods that allow to access to the
+    graphic elements of the application.
+</body>

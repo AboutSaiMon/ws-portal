@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/ws-portal/!svn/ver/6/WSPortal/src/java/it/unical/inf/wsportal/client/view
+END
+CloseButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/CloseButton.java
+END
+AddWsdlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/AddWsdlPanel.java
+END
+NorthSideContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/NorthSideContainer.java
+END
+LeftSideContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/LeftSideContainer.java
+END
+InputTabItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/InputTabItem.java
+END
+InputGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/InputGrid.java
+END
+OutputTabItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/OutputTabItem.java
+END
+WsTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/WsTree.java
+END
+WsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/WsPanel.java
+END
+InputPortlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/InputPortlet.java
+END
+OutputPortlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/OutputPortlet.java
+END
+WsPortalViewport.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/WsPortalViewport.java
+END
+AddWsdlButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/AddWsdlButton.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/ws-portal/!svn/ver/2/WSPortal/src/java/it/unical/inf/wsportal/client/view/package.html
+END
+StringTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/StringTextField.java
+END
+InvokeButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/InvokeButton.java
+END
+CenterSideContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/CenterSideContainer.java
+END
+PortletContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/view/PortletContainer.java
+END

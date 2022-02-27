@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/ws-portal/!svn/ver/6/WSPortal/src/java/it/unical/inf/wsportal/client/callback
+END
+GetUsername.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/callback/GetUsername.java
+END
+UpdateTreeStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/callback/UpdateTreeStore.java
+END
+WsLibGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/callback/WsLibGenerator.java
+END
+ShowWsdlDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/callback/ShowWsdlDialog.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/callback/Callback.java
+END
+InvokeMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/callback/InvokeMethod.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/ws-portal/!svn/ver/3/WSPortal/src/java/it/unical/inf/wsportal/client/callback/package.html
+END

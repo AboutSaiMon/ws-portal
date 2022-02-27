@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ws-portal/!svn/ver/6/WSPortal/src/java/it/unical/inf/wsportal/client
+END
+XMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/XMLSerializer.java
+END
+WSPortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/WSPortal.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ws-portal/!svn/ver/2/WSPortal/src/java/it/unical/inf/wsportal/client/package.html
+END
+MethodEnvelope.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/MethodEnvelope.java
+END
+TypeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/client/TypeValue.java
+END

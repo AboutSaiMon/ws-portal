@@ -1,0 +1,108 @@
+/* 
+    Document   : wsportal
+    Created on : 04-Jun-2010, 18:13:37
+    Author     : Simone Spaccarotella <spa.simone@gmail.com>
+*/
+
+body {
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(../images/body.jpg) repeat-x center top #000000;
+}
+
+a {
+    color:#21364F;
+}
+a:hover {
+    text-decoration:none;
+}
+
+#container {
+    width:720px;
+    margin:0 auto;
+    margin-top:40px;
+    background: url(../images/main.jpg) no-repeat #FFFFFF;
+}
+
+#main {
+    margin-right:0px;
+}
+
+#logo {
+    text-align:left;
+    margin:0 auto;
+    width:300px;
+    padding-top:50px;
+    color:#FFFFFF;
+    font-size:10px;
+    line-height:12px;
+    height:200px;
+}
+
+#text {
+    padding:0 30px 35px 30px;
+    color:#21364F;
+    font-size:11px;
+    line-height:16px;
+}
+
+#text h1, #text h2 {
+    font-size:20px;
+    font-weight:normal;
+    text-transform:uppercase;
+    margin:20px 0 10px 0;
+}
+
+#text ul {
+    margin-top:8px;
+    margin-bottom:8px;
+}
+
+#text br {
+    line-height:8px;
+}
+
+#footer {
+    clear:both;
+    height:162px;
+    background:url(../images/footer.jpg) no-repeat;
+    color:#FFFFFF;
+    font-size:11px;
+}
+
+#footer a {
+    color:#FFFFFF;
+}
+
+#left_footer {
+    float:left;
+    padding:30px 30px 0 30px;
+}
+
+#right_footer {
+    float:right;
+    padding:21px 30px 0 30px;
+    width:159px;
+    text-align:center;
+}
+
+.error-message {
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.service-closed {
+    background-image: url(../images/gxt/icons/folder-closed.png);
+    background-position: center;
+}
+
+.service-open {
+    background-image: url(../images/gxt/icons/folder.png);
+    background-position: center;
+}
+
+.operation {
+    background-image: url(../icons/C.png);
+    background-position: center;
+}

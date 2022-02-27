@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+    <description>Allows you to generate a generic client for a chosen SOAP web service</description>
+    <display-name>Web Services Portal</display-name>
+    <resource-ref>
+        <description>MySQL DB Connection</description>
+        <res-ref-name>jdbc/wsportal</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <res-auth>Container</res-auth>
+    </resource-ref>
+    <servlet>
+        <servlet-name>ServerInitializer</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.ServerInitializer</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>WSLibGenerator</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.WSLibGenerator</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>LogIn</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.LogIn</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>LogOut</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.LogOut</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>SignUp</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.SignUp</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Bridge</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.Bridge</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>InvokeMethod</servlet-name>
+        <servlet-class>it.unical.inf.wsportal.server.servlet.InvokeMethod</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServerInitializer</servlet-name>
+        <url-pattern>/server-init</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>WSLibGenerator</servlet-name>
+        <url-pattern>/wslib-generator</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LogIn</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>LogOut</servlet-name>
+        <url-pattern>/logout</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SignUp</servlet-name>
+        <url-pattern>/signup</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Bridge</servlet-name>
+        <url-pattern>/bridge</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>InvokeMethod</servlet-name>
+        <url-pattern>/invokeMethod</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+    <welcome-file-list>
+        <welcome-file>home.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>

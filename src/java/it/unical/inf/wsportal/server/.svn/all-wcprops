@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/ws-portal/!svn/ver/5/WSPortal/src/java/it/unical/inf/wsportal/server
+END
+FoldersNFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/FoldersNFiles.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/Generator.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/Compiler.java
+END
+GenericClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/GenericClient.java
+END
+WsdlInfoRetreiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/ws-portal/!svn/ver/7/WSPortal/src/java/it/unical/inf/wsportal/server/WsdlInfoRetreiver.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/ws-portal/!svn/ver/2/WSPortal/src/java/it/unical/inf/wsportal/server/package.html
+END
